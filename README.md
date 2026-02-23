@@ -16,7 +16,7 @@ A modern, responsive SaaS landing page built with:
 - Modern SaaS UI design
 
 ## Live Demo
-(After deploying to GitHub Pages, paste link here)
+https://fuadito.github.io/FlowMind-AI-Productivity/
 
 ---
 
